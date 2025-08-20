@@ -2,7 +2,7 @@
 
 Paper Link: [An Empirical Study of Aegis (arXiv:2404.15784)](https://arxiv.org/abs/2404.15784)
 
-# Instructions; adapted from the original README
+## Instructions; adapted from the original README
 
 ## Installation
 
